@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+pdfplumber
+pandas
+scikit-learn
+nltk
+reportlab
